@@ -1,1 +1,0 @@
-# vegaron-bot-in-a-visual-studio
